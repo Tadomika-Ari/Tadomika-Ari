@@ -44,13 +44,12 @@ Learning:   C#, Java
 
 ## 🎯 Featured Projects
 
-- 📌 [Project Name](link) - Brief description
-- 📌 [Project Name](link) - Brief description
+- 📌 [M4RV1N-Bot](https://github.com/Tadomika-Ari/M4RV1N-Bot) - Bot for discord (In progress)
 
 ## 📫 How to Reach Me
 
 - 📧 Email: lucas1.eeckhoutte@epitech.eu
-- 💼 LinkedIn: [Your Profile](link)
+- 💼 LinkedIn: [Lucas EECKHOUTTE](https://www.linkedin.com/in/lucas-eeckhoutte/)
 
 ---
 
