@@ -19,9 +19,9 @@ I'm a passionate developer studying at Epitech, diving deep into the world of pr
 ## 🛠️ Tech Stack & Tools
 
 ```text
-Languages:   C, C++, Python, [Add your languages]
-Tools:      Git, Linux, [Add your tools]
-Learning:   [What you're currently exploring]
+Languages:   C, C++, Python
+Tools:      Git, Linux, VS Code
+Learning:   C#, Java
 ```
 
 ## 💡 Current Focus
