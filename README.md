@@ -2,19 +2,15 @@
 
 <div align="center">
   
-  ```c
-  ./a.out ... 
-  Waiting ...
-  Ok marvin apprend moi le Malbolge
-  ```
-  
   🎓 **Epitech Student** | 💻 **Software Developer in Training**
   
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer studying at Epitech, diving deep into the world of programming and software engineering. When I'm not debugging code or waiting for compilation, I'm exploring new technologies and pushing my limits.
+I'm a new passionate developer studying at Epitech. I love computer and new tech !
+What else do I like ?
+I love read, write a book and video games §
 
 ## 🛠️ Tech Stack & Tools
 
@@ -26,10 +22,9 @@ Learning:   C#, Java
 
 ## 💡 Current Focus
 
-- 🔭 Working on exciting projects at Epitech
+- 🔭 Working on projects at Epitech
 - 🌱 Continuously learning and improving my skills
-- 💬 Ask me about C programming, algorithms, or anything tech! 
-
+- 💬 Looking for advice in C... or any other programming language
 ## 📊 GitHub Stats
 
 <div align="center">
