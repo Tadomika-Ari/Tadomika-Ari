@@ -44,7 +44,7 @@ Learning:   C#, Java
 
 <div align="center">
   
-  *"Any sufficiently advanced bug is indistinguishable from a feature."*
+  *"Its not a bug, its a feature"*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Tadomika-Ari&color=blueviolet)
   
