@@ -42,6 +42,18 @@ Learning:   C#, Java
 
 ---
 
+## 🎯 Featured Projects
+
+- 📌 [Project Name](link) - Brief description
+- 📌 [Project Name](link) - Brief description
+
+## 📫 How to Reach Me
+
+- 📧 Email: lucas1.eeckhoutte@epitech.eu
+- 💼 LinkedIn: [Your Profile](link)
+
+---
+
 <div align="center">
   
   *"Its not a bug, its a feature"*
