@@ -15,7 +15,7 @@ I love read, write a book and video games !
 ## 🛠️ Tech Stack & Tools
 
 ```text
-Languages:   C, C++, Python
+Languages:   C, Python
 Tools:      Git, Linux, VS Code
 Learning:   C#, Java
 ```
