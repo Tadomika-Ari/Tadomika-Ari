@@ -10,7 +10,7 @@
 
 I'm a new passionate developer studying at Epitech. I love computer and new tech !
 What else do I like ?
-I love read, write a book and video games §
+I love read, write a book and video games !
 
 ## 🛠️ Tech Stack & Tools
 
