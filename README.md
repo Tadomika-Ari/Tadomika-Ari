@@ -17,7 +17,7 @@ I love read, write a book and video games !
 ```text
 Languages:   C, Python
 Tools:      Git, Linux, VS Code
-Learning:   C#, Java
+Learning:   C#, Java, HTML, CSS
 ```
 
 ## 💡 Current Focus
