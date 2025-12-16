@@ -45,6 +45,7 @@ Learning:   C#, Java
 ## 🎯 Featured Projects
 
 - 📌 [M4RV1N-Bot](https://github.com/Tadomika-Ari/M4RV1N-Bot) - Bot for discord (In progress)
+- 📌 [Extinct](link) - Game from Hackathon / Game Jam
 
 ## 📫 How to Reach Me
 
