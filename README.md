@@ -56,7 +56,8 @@ Learning:   C#, Java, HTML, CSS
 ---
 
 <div align="center">
-  *"And... I never give up !"*
+  
+  *"_And... I never give up !_"*
 
 ![Image](https://github.com/user-attachments/assets/cda3a4d0-c102-4c65-99e2-6f90b9eb5cbf)
   
