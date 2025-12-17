@@ -56,8 +56,11 @@ Learning:   C#, Java, HTML, CSS
 ---
 
 <div align="center">
+  *"And... I never give up !"*
+
+![Image](https://github.com/user-attachments/assets/cda3a4d0-c102-4c65-99e2-6f90b9eb5cbf)
   
-  *"Its not a bug, its a feature"*
+  *"Also, its not a bug, its a feature"*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Tadomika-Ari&color=blueviolet)
   
