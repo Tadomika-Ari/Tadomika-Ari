@@ -25,7 +25,6 @@ Learning:   C#, Java, HTML, CSS
 - 🔭 Working on projects at Epitech
 - 🌱 Continuously learning and improving my skills
 - 💬 Looking for advice in C... or any other programming language
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -33,9 +32,9 @@ Learning:   C#, Java, HTML, CSS
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tadomika-Ari&theme=radical)
   
-  ![](https://github-profile-summary-cards.vercel. app/api/cards/stats?username=Tadomika-Ari&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tadomika-Ari&theme=radical)
   
-  ![](https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=Tadomika-Ari&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tadomika-Ari&theme=radical)
   
 </div>
 
