@@ -27,11 +27,15 @@ Learning:   C#, Java, HTML, CSS
 - 💬 Looking for advice in C... or any other programming language
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   
-  ![Tadomika-Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadomika-Ari&show_icons=true&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tadomika-Ari&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadomika-Ari&layout=compact&theme=radical)
+  ![](https://github-profile-summary-cards.vercel. app/api/cards/stats?username=Tadomika-Ari&theme=radical)
+  
+  ![](https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=Tadomika-Ari&theme=radical)
   
 </div>
 
