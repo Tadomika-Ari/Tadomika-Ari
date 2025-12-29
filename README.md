@@ -30,11 +30,10 @@ Learning:   C#, Java, HTML, CSS
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tadomika-Ari&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tadomika-Ari&theme=radical&cache_seconds=1800)
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tadomika-Ari&theme=radical)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tadomika-Ari&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tadomika-Ari&theme=radical&cache_seconds=1800)
+
   
 </div>
 
