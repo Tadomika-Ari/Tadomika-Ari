@@ -49,6 +49,7 @@ Learning:   C#, Java, HTML, CSS, Javascript
 - 📌 [M4RV1N-Bot](https://github.com/Tadomika-Ari/M4RV1N-Bot) - Bot for discord (In progress...)
 - 📌 [Extinct](https://github.com/Tadomika-Ari/Extinct) - Game from Hackathon / Game Jam
 - 📌 [The Plateaus](https://github.com/Tadomika-Ari/The-Plateaus) - New Mod Pack for Terraria (In progress...)
+- 📌 [JARVIS](https://github.com/Tadomika-Ari/JARVIS) - Just try to recreate JARVIS IA (In progress)
 
 ## 📫 How to Reach Me
 
