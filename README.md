@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  🎓 **Epitech Student** | 💻 **Software Developer in Training**
+  🎓 **Epitech Student** | 💻 **Developer in Training**
   
 </div>
 
