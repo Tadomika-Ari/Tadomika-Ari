@@ -50,6 +50,7 @@ Learning:   C#, Java, HTML, CSS, Javascript, React, GO
 - 📌 [Extinct](https://github.com/Tadomika-Ari/Extinct) - Game from Hackathon / Game Jam
 - 📌 [The Plateaus](https://github.com/Tadomika-Ari/The-Plateaus) - New Mod Pack for Terraria (In progress...)
 - 📌 [Epi-DOS](https://github.com/Tadomika-Ari/Epi-Dos) - Just try to recreate GlaDOS IA (In progress)
+- 📌 [MIRA Stream](https://github.com/Tadomika-Ari/MIRA-Stream) - Create a Web Server for streaming on GO (In progress...)
 
 ## 📫 How to Reach Me
 
