@@ -1,10 +1,17 @@
 # 👋 Hey there! I'm Tadomika-Ari
 
 <div align="center">
+
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1ebb06e2-2497-429d-9253-7bc053f1df31" />
+
+</div>
+
+<div align="center">
   
   🎓 **Epitech Student** | 💻 **Developer in Training**
   
 </div>
+
 
 ## 🚀 About Me
 
