@@ -18,7 +18,6 @@
 ```
 Tadomika-Ari/
 ├── 👤 Identity
-│   ├── Name        : Lucas EECKHOUTTE
 │   ├── Alias       : Tadomika-Ari
 │   ├── School      : Epitech
 │   └── Location    : France
