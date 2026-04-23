@@ -6,6 +6,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
   
   🎓 **Epitech Student** | 💻 **Developer in Training**
