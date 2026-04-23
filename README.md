@@ -13,6 +13,55 @@
 </div>
 
 
+## 🗂️ Who Am I? (tree view)
+
+```
+Tadomika-Ari/
+├── 👤 Identity
+│   ├── Name        : Lucas EECKHOUTTE
+│   ├── Alias       : Tadomika-Ari
+│   ├── School      : Epitech
+│   └── Location    : France
+│
+├── ❤️ Passions
+│   ├── Reading & Writing books
+│   ├── Video games
+│   └── Computer & New technologies
+│
+├── 🛠️ Tech Stack
+│   ├── Languages/
+│   │   ├── C           ██████████ (main)
+│   │   └── Python      ████████░░
+│   ├── Tools/
+│   │   ├── Git
+│   │   ├── Linux
+│   │   ├── VS Code
+│   │   └── GitHub Actions
+│   └── Learning/
+│       ├── C#
+│       ├── Java
+│       ├── HTML5 / CSS3
+│       ├── JavaScript
+│       ├── React
+│       └── Go
+│
+├── 🚀 Projects/
+│   ├── M4RV1N-Bot       → Discord bot          [In Progress]
+│   ├── Extinct          → Hackathon game        [Done]
+│   ├── The Plateaus     → Terraria mod pack     [In Progress]
+│   ├── Epi-DOS          → GlaDOS-inspired IA    [In Progress]
+│   └── MIRA Stream      → Web streaming server  [In Progress]
+│
+├── 🎯 Current Goals/
+│   ├── Finish Epitech projects
+│   ├── Keep learning new tech
+│   └── Improve in C (and more)
+│
+└── 📫 Contact/
+    ├── Email     : lucas1.eeckhoutte@epitech.eu
+    └── LinkedIn  : linkedin.com/in/lucas-eeckhoutte/
+```
+
 ## 🚀 About Me
 
 I'm a new developer studying at Epitech. I love computer and new tech !
