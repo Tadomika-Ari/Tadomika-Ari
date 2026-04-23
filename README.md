@@ -5,7 +5,7 @@
   <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1ebb06e2-2497-429d-9253-7bc053f1df31" />
 
 </div>
-
+<br>
 <div align="center">
   
   🎓 **Epitech Student** | 💻 **Developer in Training**
@@ -18,8 +18,6 @@
 I'm a new developer studying at Epitech. I love computer and new tech !
 What else do I like ?
 I love read, write a book and video games !
-
-## 🛠️ Tech Stack & Tools
 
 ## 🛠️ Tech Stack
 
