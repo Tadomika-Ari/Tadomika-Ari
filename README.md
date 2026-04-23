@@ -13,11 +13,56 @@
 </div>
 
 
-## 🚀 About Me
+## 🗂️ Who Am I?
 
-I'm a new developer studying at Epitech. I love computer and new tech !
-What else do I like ?
-I love read, write a book and video games !
+```
+Tadomika-Ari/
+├── 👤 Identity
+│   ├── Name        : Lucas EECKHOUTTE
+│   ├── Alias       : Tadomika-Ari
+│   ├── School      : Epitech
+│   └── Location    : France
+│
+├── ❤️ Passions
+│   ├── Reading & Writing books
+│   ├── Video games
+│   └── Computer & New technologies
+│
+├── 🛠️ Tech Stack
+│   ├── Languages/
+│   │   ├── C           ██████████ (main)
+│   │   └── Python      ████████░░
+│   ├── Tools/
+│   │   ├── Git
+│   │   ├── Linux
+│   │   ├── VS Code
+│   │   ├── Arch Linux
+│   │   ├── Ubuntu Linux
+│   │   └── GitHub Actions
+│   └── Learning/
+│       ├── C#
+│       ├── Java
+│       ├── HTML5 / CSS3
+│       ├── JavaScript
+│       ├── React
+│       └── Go
+│
+├── 🚀 Projects/
+│   ├── M4RV1N-Bot       → Discord bot           [In Progress]
+│   ├── Extinct          → Hackathon game        [Done]
+│   ├── The Plateaus     → Terraria mod pack     [In Progress]
+│   ├── Epi-DOS          → GlaDOS-inspired IA    [In Progress]
+│   └── MIRA Stream      → Web streaming server  [In Progress]
+│
+├── 🎯 Current Goals/
+│   ├── Finish Epitech projects
+│   ├── Keep learning new tech
+│   └── Improve in C (and more)
+│
+└── 📫 Contact/
+    ├── Email     : lucas1.eeckhoutte@epitech.eu
+    └── LinkedIn  : linkedin.com/in/lucas-eeckhoutte/
+```
 
 ## 🛠️ Tech Stack
 
@@ -45,12 +90,6 @@ I love read, write a book and video games !
 
 </div>
 
-## 💡 Current Focus
-
-- 🔭 Working on projects at Epitech
-- 🌱 Continuously learning and improving my skills
-- 💬 Looking for advice in C... or any other programming language
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -66,21 +105,6 @@ I love read, write a book and video games !
 
 - 💼 Check out my repositories below
 - 📫 Feel free to reach out for collaborations or just a chat about code! 
-
----
-
-## 🎯 Featured Projects
-
-- 📌 [M4RV1N-Bot](https://github.com/Tadomika-Ari/M4RV1N-Bot) - Bot for discord (In progress...)
-- 📌 [Extinct](https://github.com/Tadomika-Ari/Extinct) - Game from Hackathon / Game Jam
-- 📌 [The Plateaus](https://github.com/Tadomika-Ari/The-Plateaus) - New Mod Pack for Terraria (In progress...)
-- 📌 [Epi-DOS](https://github.com/Tadomika-Ari/Epi-Dos) - Just try to recreate GlaDOS IA (In progress)
-- 📌 [MIRA Stream](https://github.com/Tadomika-Ari/MIRA-Stream) - Create a Web Server for streaming on GO (In progress...)
-
-## 📫 How to Reach Me
-
-- 📧 Email: lucas1.eeckhoutte@epitech.eu
-- 💼 LinkedIn: [Lucas EECKHOUTTE](https://www.linkedin.com/in/lucas-eeckhoutte/)
 
 ---
 
