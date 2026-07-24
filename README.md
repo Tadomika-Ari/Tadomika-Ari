@@ -12,60 +12,16 @@
   
 </div>
 
-
 ## 🗂️ Who Am I?
 
-```
-Tadomika-Ari/
-├── 👤 Identity
-│   ├── Alias       : Tadomika-Ari
-│   ├── School      : Epitech
-│   └── Location    : France
-│
-├── ❤️ Passions
-│   ├── Reading & Writing books
-│   ├── Video games
-│   └── Computer & New technologies
-│
-├── 🛠️ Tech Stack
-│   ├── Languages/
-│   │   ├── C           ██████████ (main)
-│   │   └── Python      ████████░░
-│   ├── Tools/
-│   │   ├── Git
-│   │   ├── Linux
-│   │   ├── VS Code
-│   │   ├── Arch Linux
-│   │   ├── Ubuntu Linux
-│   │   └── GitHub Actions
-│   └── Learning/
-│       ├── C#
-│       ├── Java
-│       ├── HTML5 / CSS3
-│       ├── JavaScript
-│       ├── React
-│       └── Go
-│
-├── 🚀 Projects/
-│   ├── M4RV1N-Bot       → Discord bot           [In Progress]
-│   ├── Extinct          → Hackathon game        [Done]
-│   ├── The Plateaus     → Terraria mod pack     [In Progress]
-│   ├── Epi-DOS          → GlaDOS-inspired IA    [In Progress]
-│   └── MIRA Stream      → Web streaming server  [In Progress]
-│
-├── 🎯 Current Goals/
-│   ├── Finish Epitech projects
-│   ├── Keep learning new tech
-│   └── Improve in C (and more)
-│
-└── 📫 Contact/
-    ├── Email     : lucas1.eeckhoutte@epitech.eu
-    └── LinkedIn  : linkedin.com/in/lucas-eeckhoutte/
-```
+- 👤 **Identity**: Tadomika-Ari · Epitech · France
+- ❤️ **Passions**: Reading & Writing books · Video games · Computer & New technologies
+- 🚀 **Projects**: M4RV1N-Bot · Extinct · The Plateaus · Epi-DOS · MIRA Stream
+- 🎯 **Current Goals**: Finish Epitech projects · Keep learning new tech · Improve in C (and more)
+- 📫 **Contact**: lucas1.eeckhoutte@epitech.eu · [LinkedIn](https://linkedin.com/in/lucas-eeckhoutte/)
 
 ## 🛠️ Tech Stack
 
-	
 <div align="center">
 
 ### Languages
