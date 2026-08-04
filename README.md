@@ -16,7 +16,6 @@
 
 - 👤 **Identity**: Tadomika-Ari · Epitech · France
 - ❤️ **Passions**: Reading & Writing books · Video games · Computer & New technologies
-- 🚀 **Projects**: M4RV1N-Bot · Extinct · The Plateaus · Epi-DOS · MIRA Stream
 - 🎯 **Current Goals**: Finish Epitech projects · Keep learning new tech · Improve in C (and more)
 - 📫 **Contact**: lucas1.eeckhoutte@epitech.eu · [LinkedIn](https://linkedin.com/in/lucas-eeckhoutte/)
 
