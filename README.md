@@ -47,12 +47,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tadomika-Ari&theme=radical&cache_seconds=1800)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tadomika-Ari&theme=radical&cache_seconds=1800)
 
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tadomika-Ari&show_icons=true&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadomika-Ari&layout=compact&theme=radical)
+
 </div>
 
 ## 🤝 Let's Connect
