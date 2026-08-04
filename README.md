@@ -32,6 +32,19 @@
 
 </div>
 
+## 🚀 Projects
+
+- Tranquility Project: A personal assistant for everything in your PC
+- M4RV1N-Bot: A simple discord bot
+- Extinct: Game Jame project in 2 days
+- The Plateaus: Terraria Mod
+- MIRA Stream: self hosted streaming server
+
+## Community Project
+
+- Nix-pkg Maintainer
+- Community plugin on Noctalia Shell
+
 ## 📊 GitHub Stats
 
 <div align="center">
