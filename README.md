@@ -33,11 +33,11 @@
 
 ## 🚀 Projects
 
-- Tranquility Project: A personal assistant for everything in your PC
-- M4RV1N-Bot: A simple discord bot
-- Extinct: Game Jame project in 2 days
-- The Plateaus: Terraria Mod
-- MIRA Stream: self hosted streaming server
+- [MIRA Stream](https://github.com/Tadomika-Ari/MIRA-Stream): Self-hosted streaming server
+- [Tranquillity](https://github.com/Tadomika-Ari/Tranquillity): A personal assistant for your PC
+- [M4RV1N-Bot](https://github.com/Tadomika-Ari/M4RV1N-Bot): A simple Discord bot
+- [Extinct](https://github.com/Tadomika-Ari/Extinct): Game Jam project created in 2 days
+- [The Plateaus](https://github.com/Tadomika-Ari/The-Plateaus): Terraria mod
 
 ## Community project
 
