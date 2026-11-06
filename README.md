@@ -39,10 +39,10 @@
 - The Plateaus: Terraria Mod
 - MIRA Stream: self hosted streaming server
 
-## Community Project
+## Community project
 
-- Nix-pkg Maintainer
-- Community plugin on Noctalia Shell
+- [NixOS](https://github.com/NixOS/nixpkgs): maintainer of the Nix-pkg package
+- [Noctalia Shell](https://github.com/noctalia-dev/community-plugins): community plugin developer for Noctalia Shell
 
 ## 📊 GitHub Stats
 
